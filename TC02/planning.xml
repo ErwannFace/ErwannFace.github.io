@@ -65,13 +65,14 @@
 		</Jour>
 		<Jour number="4">
 			<Task time="3">PROJ</Task>
-			<Task time="2">ALGO02</Task>
-			<Task time="2">GIT01</Task>
+			<Task time="3">JS12</Task>
+			<Task time="1">GIT</Task>
 		</Jour>
 		<Jour number="5">
 			<Task time="2">JS11</Task>
 			<Task time="1">CUL00</Task>
-			<Task time="4">COD01</Task>
+			<Task time="2">COD01</Task>
+			<Task time="2">ALGO02</Task>
 		</Jour>
 	</Semaine>
 

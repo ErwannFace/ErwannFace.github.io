@@ -25,15 +25,6 @@
 						Vous pouvez également utiliser le XSLT pour exporter vers un autre XML (ayant un autre DTD)! 
 					</Description>
 				</Activite>
-				<Activite>
-					<Objectif>Réaliser le potentiel qu'ils ont aujourd'hui</Objectif>
-					<Code>XML03</Code>
-					<Description>
-						Par ce biais, les apprenants comprendront ce qu'est un fichier XML.
-						Avec un kml et le site http://display-kml.appspot.com/.
-						Montrer ce qu'ils peuvent faire simplement pour que le site devienne utilisable
-					</Description>
-				</Activite>
 			</Sequence>
 			<Sequence>
 				<Objectif>Développer un site web en HTML5</Objectif>
@@ -196,7 +187,7 @@
 					<Description>Intervention de Lise P., Julien M., Nabil M.</Description>
 					
 				</Activite>
-
+				
 				<Activite>
 					<Objectif>Approfondir GIT </Objectif>
 					<Code>GIT01</Code>

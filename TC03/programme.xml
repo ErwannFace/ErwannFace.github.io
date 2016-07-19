@@ -88,14 +88,6 @@ Soit par exercices :
 				</Activite>
 			</Sequence>
 			<Sequence>
-				<Objectif>Se documenter sur le JS</Objectif>
-				<Activite>
-					<Objectif>Se documenter sur le JS </Objectif>
-					<Code>JS99</Code>
-					<Description>http://jsbooks.revolunet.com/</Description>
-				</Activite>
-			</Sequence>
-			<Sequence>
 				<Objectif>Projets</Objectif>
 				<Activite>
 					<Objectif>Projet JavaScript</Objectif>
@@ -126,6 +118,20 @@ Soit par exercices :
 					<Description>Intervention d'Annaelle sur l'UI / UX. Un exercice papier est réalisé. Où les apprenants doivent répondre à diverses questions à se poser en amont d'une la mise en place du site.</Description>
 					
 				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>La POO</Objectif>
+				<Activite>
+					<Objectif>Intervention sur la POO</Objectif>
+					<Code>POO01</Code>
+					<Description>Intervention d'Erwann sur la POO. Cours magistral</Description>
+					
+				</Activite>
+			</Sequence>
+			<Sequence>
+				<Objectif>Le portage Salarial</Objectif>
+				<Code>Intervention Portage Salarial</Code>
+				<Description>Ghaffar, Patrice et Youness sont allés à un meetup concernant le portage salarial.</Description>
 			</Sequence>
 		</Module>
 	</Programme>

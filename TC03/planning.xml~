@@ -63,15 +63,14 @@
 		</Jour>
 		<Jour number="5">
 			<Task time="3">PROJ</Task>
-			<Task time="2">PROJ</Task>
+			<Task time="3">PHP00</Task>
 			<Task time="1">CUL00</Task>
-			<Task time="1">PHP00</Task>	
 		</Jour>
 	</Semaine>
 	<Semaine number="31">
 		<Jour number="1">
-			<Task time="3">PROJ</Task>
-			<Task time="3">CMS01</Task>
+			<Task time="5">CMS01</Task>
+			<Task time="1">CUL00</Task>
 			<Task time="1">GES01</Task>
 		</Jour>
 		<Jour number="2">

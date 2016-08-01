@@ -134,5 +134,14 @@ Soit par exercices :
 				<Description>Ghaffar, Patrice et Youness sont allés à un meetup concernant le portage salarial.</Description>
 			</Sequence>
 		</Module>
+		<Module>
+			<Objectif>Gestion de la promotion</Objectif>
+			<Sequence>
+				<Activite>
+					<Objectif>Election d'un délégué</Objectif>
+					<Code>GES01</Code>
+					<Description>Tous les mois, une nouvelle élection de délégué est réalisé</Description>
+			</Sequence>
+		</Module>
 	</Programme>
 </root>

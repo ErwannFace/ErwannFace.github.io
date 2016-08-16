@@ -24,35 +24,35 @@
 					<Objectif>Hello World</Objectif>
 					<Code>WEB-PHP-01</Code>
 					<Description>
-						https://github.com/simplonco/php-hello-world
+						https://github.com/ErwannFace/php_hello_world
 					</Description>
 				</Activite>
 				<Activite>
 					<Objectif>Introduction au PHP</Objectif>
-					<Code>WEB-PHP-01</Code>
+					<Code>WEB-PHP-02</Code>
 					<Description>
-						https://github.com/simplonco/php-introduction
+						https://github.com/ErwannFace/php_introduction
 					</Description>
 				</Activite>
 				<Activite>
 					<Objectif>Lire et parcourir des données en PHP</Objectif>
 					<Code>WEB-PHP-03</Code>
 					<Description>
-						https://github.com/simplonco/php-cooking-data
+						https://github.com/ErwannFace/php_cooking_data
 					</Description>
 				</Activite>
 				<Activite>
 					<Objectif>Activité Pair programming : Le pangram</Objectif>
 					<Code>WEB-PHP-04</Code>
 					<Description>
-						https://github.com/simplonco/php-pangram
+						
 					</Description>
 				</Activite>
 				<Activite>
 					<Objectif>Challenge du Mercredi</Objectif>
 					<Code>WEB-PHP-05</Code>
 					<Description>
-						https://github.com/simplonco/php-gigasecond
+						
 					</Description>
 				</Activite>
 				

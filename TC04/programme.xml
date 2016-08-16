@@ -65,5 +65,18 @@
 				
 			</Sequence>
 		</Module>
+		<Module group="Tronc_Commun" language="N/A">
+			<Objectif>Compréhender les besoins nécessaires pour un chef de projet</Objectif>
+			<Sequence>
+				<Objectif>Travailler pour un client</Objectif>
+				<Activite>
+					<Objectif>Projet Profesionel</Objectif>
+					<Code>GES-04-01</Code>
+					<Description>
+						Des vrais clients réalisent une demande à FACE pour implémenter leurs sites web. 
+					</Description>
+				</Activite>
+			</Sequence>
+		</Module>
 	</Programme>
 </root>

@@ -4,7 +4,7 @@
 <root>
 	<Programme formation="Prairie">
 		<Module language="" group="Prairie">
-			<Objectif>  Compréhender et accepter les thématiques abordés lors de la formation</Objectif>
+			<Objectif>Compréhender et accepter les thématiques abordés lors de la formation</Objectif>
 			<PreRequis>Etre inscrit à la formation</PreRequis>
 			<Materiel>Legos, Video Projecteur, 1 PC/Apprenant </Materiel>
 			<Sequence>

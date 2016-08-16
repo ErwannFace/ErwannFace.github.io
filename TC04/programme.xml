@@ -1,0 +1,62 @@
+<?xml version = "1.0" encoding="UTF-8" ?>
+<!DOCTYPE root
+  SYSTEM 'programmePedago.dtd'>
+<root>
+	<Programme formation="Tronc Commun">
+		<Module group="Tronc_Commun" language="N/A">
+			<Objectif>Avoir la culture générale d'un developpeur web junior</Objectif>
+			<Sequence>
+				<Objectif>Devenir curieux sur des technologies</Objectif>
+				<Activite>
+					<Objectif>Découverte d'une techno de son choix</Objectif>
+					<Code>CUL-01-02</Code>
+					<Description>
+						Pendant les vacances, choisissez un framework ou une bibliothèque. Si vous manquez d'inspiration, recherchez des offres d'emploi. Puis lisez la documentation associée , et réalisez un premier projet. Lors de votre retour en classe, vous devrez être capable d'en parler , et d'expliquer à quoi elle sert et comment on peut l'utiliser.
+					</Description>
+				</Activite>
+			</Sequence>
+		</Module>
+		<Module group="Tronc_Commun" language="PHP">
+			<Objectif>Développer dans des langages web</Objectif>
+			<Sequence>
+				<Objectif>Développer un site web en PHP</Objectif>
+				<Activite>
+					<Objectif>Hello World</Objectif>
+					<Code>WEB-PHP-01</Code>
+					<Description>
+						https://github.com/simplonco/php-hello-world
+					</Description>
+				</Activite>
+				<Activite>
+					<Objectif>Introduction au PHP</Objectif>
+					<Code>WEB-PHP-01</Code>
+					<Description>
+						https://github.com/simplonco/php-introduction
+					</Description>
+				</Activite>
+				<Activite>
+					<Objectif>Lire et parcourir des données en PHP</Objectif>
+					<Code>WEB-PHP-03</Code>
+					<Description>
+						https://github.com/simplonco/php-cooking-data
+					</Description>
+				</Activite>
+				<Activite>
+					<Objectif>Activité Pair programming : Le pangram</Objectif>
+					<Code>WEB-PHP-04</Code>
+					<Description>
+						https://github.com/simplonco/php-pangram
+					</Description>
+				</Activite>
+				<Activite>
+					<Objectif>Challenge du Mercredi</Objectif>
+					<Code>WEB-PHP-05</Code>
+					<Description>
+						https://github.com/simplonco/php-gigasecond
+					</Description>
+				</Activite>
+				
+			</Sequence>
+		</Module>
+	</Programme>
+</root>

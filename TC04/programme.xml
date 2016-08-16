@@ -8,6 +8,13 @@
 			<Sequence>
 				<Objectif>Devenir curieux sur des technologies</Objectif>
 				<Activite>
+					<Objectif>Poses-toi une question</Objectif>
+					<Code>CUL-01-01</Code>
+					<Description>Chaque semaine les apprenants définissent des thématiques à rechercher.
+						Chaque semaine, un apprenant sélectionné au hasard présente son axe de recherche</Description>
+					
+				</Activite>
+				<Activite>
 					<Objectif>Découverte d'une techno de son choix</Objectif>
 					<Code>CUL-01-02</Code>
 					<Description>

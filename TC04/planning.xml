@@ -15,7 +15,10 @@
 			<Task time="3">WEB-PHP-02</Task>
 			<Task time="1">WEB-PHP-05</Task>
 		</Jour>
-		<Jour number="4" ferie="true"><Task time="7">INS PRO</Task></Jour>
+		<Jour number="4" ferie="true">
+			<Task time="3">GES-04-01</Task>
+			<Task time="4">WEB-PHP-02</Task>
+		</Jour>
 		<Jour number="5">
 			<Task time="3">GES-04-01</Task>
 			<Task time="3">WEB-PHP-02</Task>

@@ -33,8 +33,9 @@
 		</Jour>
 		<Jour number="4" ferie="true"><Task time="7">INS PRO</Task></Jour>
 		<Jour number="5">
-			<Task time="6"></Task>
+			<Task time="5"></Task>
 			<Task time="1">CUL-01-01</Task>
+			<Task time="1">SOC10-02</Task>
 		</Jour>
 	</Semaine>
 	<Semaine number="36">

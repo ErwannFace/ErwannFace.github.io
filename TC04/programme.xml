@@ -78,5 +78,19 @@
 				</Activite>
 			</Sequence>
 		</Module>
+		<Module group="Tronc_Commun" language="N/A">
+			<Objectif> Accepter et s'intégrer au sein du groupe</Objectif>
+			<Sequence>
+				<Objectif>Définir le groupe</Objectif>
+				<Activite>
+					<Objectif>Election d'un délégué</Objectif>
+					<Code>SOC10-02</Code>
+					<Description>
+						Plusieurs personnes peuvent se présenter pour les élections. S'il s'agit des premières élections, personne ne se connait. Le vote final peut se réaliser au shifumi
+					</Description>
+				</Activite>
+			</Sequence>
+		</Module>
+		
 	</Programme>
 </root>

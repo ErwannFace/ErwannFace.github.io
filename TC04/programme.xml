@@ -22,6 +22,41 @@
 					</Description>
 				</Activite>
 			</Sequence>
+			<Sequence>
+					<Objectif>Connaître le droit à l'informatique</Objectif>
+					<Code>CUL-04</Code>
+					<Activite>
+						<Objectif>Connaitre le BA.B.A sur les différentes licences</Objectif>
+						<Code>CUL-04-02</Code>
+						<Description>
+							Exercice sur les licences GPL, Creative Commons, MPL, Apache, MIT.
+						</Description>
+					</Activite>
+			</Sequence>
+			<Sequence>
+					<Objectif>Savoir ce qu'est l'UI/UX</Objectif>
+					<Code>CUL-05</Code>
+					<Activite>
+						<Objectif>Lecture d'un article sur l'ergonomie d'un site web</Objectif>
+						<Code>CUL-05-02</Code>
+						<Description>
+							http://www.commentcamarche.net/contents/1255-ergonomie-d-un-site-web
+						</Description>
+					</Activite>
+			</Sequence>
+			<Sequence>
+					<Objectif>Connaitre les principes de l'accessibilité web</Objectif>
+					<Code>CUL-06</Code>
+					<Activite>
+						<Objectif>Lecture des règles WCAG 2.0</Objectif>
+						<Code>CUL-06-01</Code>
+						<Description>
+							http://simplonline.co/uploads/images/Front_End/zuliegarnier/Web_accessibility_fr.png 
+							https://www.w3.org/WAI/References/QuickTips/qt-fr.htm 
+							https://www.w3.org/WAI/WCAG20/quickref/
+						</Description>
+					</Activite>
+			</Sequence>
 		</Module>
 		<Module group="Tronc_Commun" language="PHP">
 			<Objectif>Développer dans des langages web</Objectif>
@@ -49,10 +84,10 @@
 					</Description>
 				</Activite>
 				<Activite>
-					<Objectif>Activité Pair programming : Le pangram</Objectif>
+					<Objectif>Activité Pair programming : Les algorithmes de tri</Objectif>
 					<Code>WEB-PHP-04</Code>
 					<Description>
-						
+						https://github.com/ErwannFace/php_algo_tri
 					</Description>
 				</Activite>
 				<Activite>

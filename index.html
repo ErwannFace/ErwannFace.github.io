@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Programme Pedagogique</title>
+	<meta charset='utf-8'>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
 	<link rel="stylesheet" href="css/w3.css">
@@ -82,40 +83,56 @@
 			  	
 			}
 		}
-
+		function myFunction(id, obj) {
+			$('.w3-dropdown-content').removeClass("w3-show");
+			$('.w3-btn').removeClass("selectedBtn");
+			obj.className +=" selectedBtn";
+		    var x = document.getElementById(id);
+		    if (x.className.indexOf("w3-show") == -1)
+		        x.className += " w3-show";
+		    else
+		        x.className = x.className.replace(" w3-show", "");
+		    
+		}
 	</script>
 
 </head>
 <body>
 <nav class="w3-sidenav w3-white w3-card-2 w3-animate-left">
- <ul class="w3-navbar">
-  <li><a href="#" onclick='openLink("Prairie")'>Prairie</a></li>
-  <li><a href="#" onclick='openLink("TC01")'>Mois 01 - HTML</a></li>
-  <li><a href="#" onclick="openLink('TC02')">Mois 02 - HTML/JS</a></li>
-  <li><a href="#" onclick="openLink('TC03')">Mois 03 - JS/CMS</a></li>
-  <li><a href="#" onclick="openLink('TC04')">Mois 04 - PHP</a></li>
-  <li><a href="#" onclick="openLink('TC05')">Mois 05 - PHP</a></li>
-</ul>
-<h3>Front End</h3>
- <ul class="w3-navbar">
- 	<li><a href="#" onclick='openLink("FE01")'>Mois 01 - AngularJS</a></li>
- </ul>
- <h3>Back End</h3>
- <ul class="w3-navbar">
- 	<li><a href="#" onclick='openLink("BE01")'>Mois 01 - Silex</a></li>
- </ul>
- <h3>Référent Numérique</h3>
- <ul class="w3-navbar">
- 	<li><a href="#" onclick='openLink("RN01")'>Mois 01 - Gestion de projet</a></li>
- </ul>
 
-<div id="snap">
-	<span id="snap-h">&nbsp;</span>
-	<hr />
-	<span id="snap-d">&nbsp;</span>
+<div class="w3-dropdown-click">
+  <button onclick="myFunction('TC' , this)" class="w3-btn">Tronc Commun</button>
+  <button onclick="myFunction('FE', this)" class="w3-btn">Front End</button>
+  <button onclick="myFunction('BE', this)" class="w3-btn">Back End</button>
+  <button onclick="myFunction('RN', this)" class="w3-btn">Référent Numérique</button>
 </div>
+<div class="w3-dropdown-click">
+  <div id="FE" class="w3-dropdown-content w3-card">
+    <a href="#" onclick='openLink("FE01")'>Mois 01 - AngularJS</a>
+  </div>
+  <div id="TC" class="w3-dropdown-content w3-card">
+    <a href="#" onclick='openLink("Prairie")'>Prairie</a>
+    <a href="#" onclick='openLink("TC01")'>Mois 01 - HTML</a>
+    <a href="#" onclick="openLink('TC02')">Mois 02 - HTML/JS</a>
+    <a href="#" onclick="openLink('TC03')">Mois 03 - JS/CMS</a>
+    <a href="#" onclick="openLink('TC04')">Mois 04 - PHP</a>
+    <a href="#" onclick="openLink('TC05')">Mois 05 - PHP</a>
+  </div>
+  <div id="BE" class="w3-dropdown-content w3-card">
+    <a href="#" onclick='openLink("BE01")'>Mois 01 - Silex</a>
+  </div>
+  <div id="RN" class="w3-dropdown-content w3-card">
+    <a href="#" onclick='openLink("RN01")'>Mois 01 - Gestion de projet</a>
+  </div>
+</div>
+
+	<div id="snap">
+		<span id="snap-h">&nbsp;</span>
+		<hr />
+		<span id="snap-d">&nbsp;</span>
+	</div>
 </nav>
-<div id="result" style="margin-left:25%"></div>
+<div id="result"></div>
 
 </body>
 

@@ -97,7 +97,13 @@
 						
 					</Description>
 				</Activite>
-				
+				<Activite>
+					<Objectif>Le Projet PHP</Objectif>
+					<Code>WEB-PHP-06</Code>
+					<Description>
+						
+					</Description>
+				</Activite>
 			</Sequence>
 		</Module>
 		<Module group="Tronc_Commun" language="N/A">

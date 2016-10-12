@@ -32,5 +32,18 @@ Simplonline - 1e semaine](http://simplonline.co/les-parcours/game-of-codes/207-s
 				</Activite>
 			</Sequence>
 		</Module>
+		<Module>
+			<Objectif>Pratiquer avec aisance l'algorithmie</Objectif>
+			<Sequence>
+				<Objectif>Approfondir l'algorithmie</Objectif>
+				<Activite>
+					<Objectif>Approfondir l'algorithmie sur Coding Game</Objectif>
+					<Code>WEB-COD-01</Code>
+					<Description>
+						En pair programming, réalisez un exercice de coding game. En utilisant le language JavaScript.
+					</Description>
+				</Activite>
+			</Sequence>
+		</Module>
 	</Programme>
 </root>

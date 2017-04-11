@@ -1,6 +1,6 @@
 <?xml version = "1.0" encoding="UTF-8" ?>
  <!DOCTYPE Programme SYSTEM "programmePedago.dtd">
-<?xml-stylesheet href="css/styleProgrammePedago.css" type="text/css" ?>
+<?xml-stylesheet href="../css/style.css" type="text/css" ?>
 <root>
 	<Programme formation="Prairie">
 		<Module language="" group="Prairie">
@@ -12,6 +12,7 @@
 				<Activite>
 					<Objectif>Petit Déjeuner de bienvenue</Objectif>
 					<Code>SOC01</Code>
+					<Temps> 1/2 h</Temps>
 					<SousObjectif>Mise en confiance et découverte d'autrui</SousObjectif>
 				</Activite>
 				<Activite>

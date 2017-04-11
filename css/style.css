@@ -141,6 +141,10 @@ Task[time="8"]{
 Activite[done="true"]{
 	text-decoration: line-through;
 }
+Activite[skipped="true"]{
+	text-decoration: line-through;
+	color:red;
+}
 
 .w3-navbar > li{
 	 clear: both;

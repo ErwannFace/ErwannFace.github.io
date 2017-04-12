@@ -51,6 +51,23 @@
 				</Activite>
 			</Sequence>
 		</Module>
+		<Module group="Tronc Commun" language="PHP">
+			Objectif>Savoir pratiquer professionellement du PHP 7</Objectif>
+			<PreRequis>Avoir des notions d'algorithmie</PreRequis>
+			<Materiel>Video Projecteur, 1 PC/Apprenant</Materiel>
+			<Sequence>
+				<Objectif>Initiation au PHP</Objectif>
+				
+				<Activite >
+					<Objectif>Découvrir les fonctions de base du PHP</Objectif>
+					<Code>PHP01</Code>
+					<Description>
+						Par binomes, réaliser les exercices suivants : 
+							* https://github.com/simplonco/php-training-base
+					</Description>
+				</Activite>
+
+		</Module>
 		<Module group="Tronc Commun" language="HTML">	
 			<Objectif>Savoir pratiquer professionellement du HTML</Objectif>
 			<PreRequis>Avoir terminé la prairie</PreRequis>
